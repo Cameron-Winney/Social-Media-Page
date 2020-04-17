@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    width: 850px;
+    background-color: darkblue;
+    height: 350px;
+    margin: auto;
+}
+.profile-img {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    border-radius: 3px;
+    margin-left: 10px;
+    background-color: blue;
+    top: 230px;
+
+}
+.white {
+    color:white;
+}
+.profile-text {
+    position: relative;
+    left:200px;
+    top:100px;
+}
