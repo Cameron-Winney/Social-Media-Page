@@ -27,3 +27,12 @@ header {
     left:200px;
     top:100px;
 }
+.float-right {
+    float: right;
+}
+.no-style {
+    list-style: none;
+}
+.button {
+    background-color: white;
+}
