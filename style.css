@@ -3,8 +3,7 @@
 font-family: Arial, Helvetica, sans-serif;
 }
 body {
-    background-color: #898F9C;
-}
+    background-color: #898F9C;}
 header {
     width: 850px;
     background-color: #4267B2;
@@ -102,8 +101,91 @@ li {
     padding-right:50px;
 }
 .col1 {
+    position: relative;
     width: 328px;
+    height:1000px;
+    border: solid black 2px;
+    top: 60px;
+    background-color: white;
+    left:500px;
 }
 .col2{
     width: 512px;
+    height:1000px;
+    border: solid black 2px;
+    background-color: white;
+    position: relative;
+    bottom:940px;
+    left: 837px;
+
+}
+.underline {
+    text-decoration: underline;
+}
+hr {
+    height:5px;
+    background-color: black;
+}
+.post-img {
+    height: 50px;
+    width: 50px;
+    background-color: #4267B2;
+    position: relative;
+    left:10px;
+    top:10px;
+    border: solid black 2px;
+}
+.post-title {
+    position: relative;
+    bottom:50px;
+    left:75px;
+}
+.post-text {
+    position: relative;
+    bottom: 60px;
+    margin: 40px;
+    margin-top: -20px;
+}
+.main-post {
+    height: 100px;
+}
+.post-content {
+    margin:10px;
+    width: 490px;
+    height:200px;
+    background-color: #4267B2;
+    position: relative;
+    bottom: 50px;
+}
+.post-secondary-title{
+    position: relative;
+    bottom:87px;
+    left:170px;
+}
+.post-line {
+    height:3px;
+    position: relative;
+    bottom:80px;
+    margin: 0;
+}
+.secondary-post-img {
+    position:relative;
+    background-color: #4267B2;
+    height: 50px;
+    width: 50px;
+    top:275px;
+    left:10px;
+    border: solid black 2px;
+}
+.secondary {
+    position: relative;
+    top:215px;
+}
+.move-slight {
+    position: relative;
+    top:178px;
+}
+.secondary-line{
+    position: relative;
+    top:190px;
 }
