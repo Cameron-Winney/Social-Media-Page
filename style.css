@@ -40,7 +40,7 @@ header {
     background-color: white;
 }
 .inline {
-    display: inline;
+    display: block;
 }
 
 
